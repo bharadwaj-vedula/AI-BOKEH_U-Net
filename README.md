@@ -1,6 +1,6 @@
 # AI-BOKEH_U-Net
 
-The Model is trained on images of size 256x256, hence significant downsizing is observed. To improve the results model needs to be trained more. 
+The Model is trained on images of size 256x256, hence significant downsizing is observed. To improve the results model needs to be trained more. Streamlit app is made which will be published on heroku soon.
 
 original  image
 ![unet1](https://user-images.githubusercontent.com/59414616/108426894-5b5b3e80-7262-11eb-8fc5-39ee6e0a1d87.jpeg)
